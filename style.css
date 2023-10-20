@@ -4,6 +4,7 @@ em strong {
 
 .itens {
     font-style: italic;
+    text-align: center;
 }
 
 .beneficios {
@@ -14,6 +15,3 @@ body{
     text-align: center;
 }
 
-li{
-    text-align: center;
-}
