@@ -7,7 +7,7 @@ body {
 }
 
 .principal {
-    background: #CCCCCC
+    background: #CCCCCC;
 }
 
 h1{
@@ -27,9 +27,13 @@ em strong {
 }
 
 .itens {
-    font-style: italic;
+    font-style: italic
 }
 
 .beneficios {
     background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
