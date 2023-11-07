@@ -37,3 +37,10 @@ em strong {
 h2 {
     text-align: center;
 }
+ul {
+    display:block;
+}
+
+.imagembeneficios {
+    width: 50%
+}
