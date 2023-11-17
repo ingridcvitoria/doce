@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-    color: #ffff00;
+    color: rgba(255, 208, 0, 0.932), 208, 0);
 }
 
 .itens {
